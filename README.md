@@ -10,6 +10,11 @@ cd mysql_utilities
 docker build mysql_utilities:1.0 .
 ```
 
+### Pull from docker hub
+```bash
+docker pull avoyerfuze/mysql_utilities:1.0
+```
+
 ## Example
 
 Compare schemas using mysqldbcompare.
